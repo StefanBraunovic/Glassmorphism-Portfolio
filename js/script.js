@@ -50,7 +50,8 @@ document.querySelector(".pp-thumbnail img").src=
 portfolioItem.querySelector(".portfolio-item-thumbnail img").src;
 
 document.querySelector(".pp-header h3").innerHTML=
-portfolioItem.querySelector(".portfolio-item-title").innerHTML;
+portfolioItem.querySelector(".portfolio-item-tittle").innerHTML;
+
 
 
 document.querySelector(".pp-body").innerHTML=
